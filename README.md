@@ -1,1 +1,1 @@
-# Hotel-Site
+#Responsive Hotel-Site
