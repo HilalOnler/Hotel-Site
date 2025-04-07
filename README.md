@@ -27,3 +27,11 @@ git clone https://github.com/HilalOnler/Hotel-Site.git
 cd Hotel-Site
 
 # 3. index.html dosyasını tarayıcıda aç
+
+---
+
+## 📬 İletişim
+
+Projeyle ilgili sorularınız için bana GitHub üzerinden ulaşabilirsiniz: [@HilalOnler](https://github.com/HilalOnler)
+
+---
